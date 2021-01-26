@@ -1,0 +1,13 @@
+C:\Users\oscar\Desktop\U - CICLO I\PE LAB\GUIA 3\G3E2\G3E2\bin\Debug\netcoreapp3.1\G3E2.exe
+C:\Users\oscar\Desktop\U - CICLO I\PE LAB\GUIA 3\G3E2\G3E2\bin\Debug\netcoreapp3.1\G3E2.deps.json
+C:\Users\oscar\Desktop\U - CICLO I\PE LAB\GUIA 3\G3E2\G3E2\bin\Debug\netcoreapp3.1\G3E2.runtimeconfig.json
+C:\Users\oscar\Desktop\U - CICLO I\PE LAB\GUIA 3\G3E2\G3E2\bin\Debug\netcoreapp3.1\G3E2.runtimeconfig.dev.json
+C:\Users\oscar\Desktop\U - CICLO I\PE LAB\GUIA 3\G3E2\G3E2\bin\Debug\netcoreapp3.1\G3E2.dll
+C:\Users\oscar\Desktop\U - CICLO I\PE LAB\GUIA 3\G3E2\G3E2\bin\Debug\netcoreapp3.1\G3E2.pdb
+C:\Users\oscar\Desktop\U - CICLO I\PE LAB\GUIA 3\G3E2\G3E2\obj\Debug\netcoreapp3.1\G3E2.csprojAssemblyReference.cache
+C:\Users\oscar\Desktop\U - CICLO I\PE LAB\GUIA 3\G3E2\G3E2\obj\Debug\netcoreapp3.1\G3E2.AssemblyInfoInputs.cache
+C:\Users\oscar\Desktop\U - CICLO I\PE LAB\GUIA 3\G3E2\G3E2\obj\Debug\netcoreapp3.1\G3E2.AssemblyInfo.cs
+C:\Users\oscar\Desktop\U - CICLO I\PE LAB\GUIA 3\G3E2\G3E2\obj\Debug\netcoreapp3.1\G3E2.csproj.CoreCompileInputs.cache
+C:\Users\oscar\Desktop\U - CICLO I\PE LAB\GUIA 3\G3E2\G3E2\obj\Debug\netcoreapp3.1\G3E2.dll
+C:\Users\oscar\Desktop\U - CICLO I\PE LAB\GUIA 3\G3E2\G3E2\obj\Debug\netcoreapp3.1\G3E2.pdb
+C:\Users\oscar\Desktop\U - CICLO I\PE LAB\GUIA 3\G3E2\G3E2\obj\Debug\netcoreapp3.1\G3E2.genruntimeconfig.cache
