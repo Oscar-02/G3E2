@@ -7,15 +7,15 @@ namespace G3E2
         static void Main(string[] args)
         {
             //Declaro las variables
-            int b, h, a;
+            double b, h, a;
             //Mensaje de bienvenida
             Console.WriteLine("Hola y bienvenido. Este programa fue diseñado para calcular el area de un triangulo.");      
             //Entrada para la base
             Console.WriteLine("Para iniciar, por favor ingrese el valor de la base del triangulo...");
-            b = Convert.ToInt32(Console.ReadLine());
+            b = Convert.ToDouble(Console.ReadLine());
             //Entrada para la altura
             Console.WriteLine("Bien, ahora por favor ingrese el valor de la altura del triangulo...");
-            h = Convert.ToInt32(Console.ReadLine());
+            h = Convert.ToDouble(Console.ReadLine());
             //Operacion
             a = (b * h) / 2;
             //Impresion de resultados
