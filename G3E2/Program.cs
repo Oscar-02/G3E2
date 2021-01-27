@@ -7,9 +7,7 @@ namespace G3E2
         static void Main(string[] args)
         {
             //Declaro las variables
-            int b = 0;
-            int h = 0;
-            int a = 0;
+            int b, h, a;
             //Mensaje de bienvenida
             Console.WriteLine("Hola y bienvenido. Este programa fue diseñado para calcular el area de un triangulo.");      
             //Entrada para la base
