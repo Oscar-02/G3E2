@@ -6,6 +6,13 @@ namespace G3E2
     {
         static void Main(string[] args)
         {
+            /*
+             * PROGRAMACION ESTRUCTURADA GRUPO 07L
+             * EJERCICIO 4 GUIA 3
+             * 
+             * OSCAR ROLANDO CAÑAS VALDIZON
+             */
+
             //Declaro las variables
             double b, h, a;
             //Mensaje de bienvenida
